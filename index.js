@@ -1,2 +1,1 @@
-require('coffee-script');
-module.exports = require('./src/index');
+module.exports = require('./build/index');
