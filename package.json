@@ -42,7 +42,6 @@
     "spreadsheet"
   ],
   "dependencies": {
-    "archiver": "0.5.1",
-    "coffee-script": "~1.6.3"
+    "archiver": "0.5.1"
   }
 }
